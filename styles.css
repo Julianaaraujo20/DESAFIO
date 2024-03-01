@@ -55,6 +55,7 @@ h1 {
     line-height: 82px;
     color: #161a49;
     letter-spacing: 0.596154px;
+    margin: 30px 0;
     
 }
 
@@ -65,8 +66,8 @@ p {
     line-height: 33px;
     color:#4B505A;
     letter-spacing: 0.5px;
-    margin-top: 47px;
-    margin-bottom: 55px;
+    margin-top: 30px;
+    margin-bottom: 30px;
    
 }
 .link-main{
@@ -120,5 +121,9 @@ p {
         font-size: 18px;
         line-height: 33px;
         letter-spacing: 0.5px;
+    }
+
+    .link-main {
+      padding-left: 80px;
     }
 }
